@@ -3,7 +3,8 @@
 - Zennの記事
     - [Package] JuMP+CbcとJuMP+SICPの比較: Pisingerのナップサック問題インスタンスを使って
     - https://zenn.dev/takilog/articles/7fd1e85b054a8d
-    - 実装は notebook/search-and-evaluate-SCIP.ipynb を見て下さい
+- 実装は notebook/search-and-evaluate-SCIP.ipynb を見て下さい
+- 実験するには hard instances を解凍した上で、 notebook/download_instance あたりに入れる必要があります（別でも良い）
 
 
 # 結果（SCIP; gap 0.01）
